@@ -1,0 +1,20 @@
+.bg-primary{
+  background: linear-gradient(rgb(192, 12, 192),rgb(135, 135, 234))
+}
+
+.my-icon{
+   font-size:50px!important;
+   color:rgb(192, 12, 192);
+}
+
+.services-container{
+  border:.5px solid rgb(192, 12, 192);
+  padding: 25px;
+  cursor: pointer;
+  transition: 200ms all ease-in-out;
+}
+.services-container :hover{
+background: black;
+color: white;
+border-radius: 20px; 
+}
